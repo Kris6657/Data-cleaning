@@ -11,4 +11,4 @@
 
 ### 2.准备用来练手的数据集网站
 https://archive.ics.uci.edu/  
-https://www.kaggle.com/dataset  注册kaggle账号时无法显示验证码请参考：https://blog.azurezeng.com/recaptcha-use-in-china/
+https://www.kaggle.com/dataset 🌸注册kaggle账号时无法显示验证码请参考：https://blog.azurezeng.com/recaptcha-use-in-china/
