@@ -29,9 +29,12 @@ https://www.kaggle.com/dataset
 
 
 ## 致谢
-```1.
-[http://realpython.com/python-data-cleaning-numpy-pandas/](http://realpython.com/python-data-cleaning-numpy-pandas/)
+Case 1
 ```
-```2.
-[http://realpython.com/python-data-cleaning-numpy-pandas/](http://realpython.com/python-data-cleaning-numpy-pandas/)
+https://github.com/agconti/kaggle-titanic
+```
+Case 2
+```
+https://github.com/mramshaw/Data-Cleaning/
+```
 
