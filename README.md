@@ -1,5 +1,5 @@
 # Data-cleaning
-## 概述Overview
+## 概述 Overview
 > ### 1. 数据清洗是什么？
 数据清洗主要包括以下几个方面：
 
@@ -28,7 +28,7 @@ https://www.kaggle.com/dataset
 
 
 
-## 致谢
+## 致谢 Credit 
 Case 1
 ```
 https://github.com/agconti/kaggle-titanic
